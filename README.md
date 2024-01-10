@@ -27,9 +27,9 @@ Welcome to TINT's Weather App! This project is a testament to my journey into th
 
 ## 💡 Prerequisites
 - Python 3.x
-- tkinter library
-- requests library
-- PIL library
+- Tkinter Library
+- Requests Library
+- PIL Library
 
 ## 🙌 Installation
 1. Clone the repository:
