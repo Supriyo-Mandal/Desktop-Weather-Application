@@ -62,3 +62,8 @@ Welcome to TINT's Weather App! This project is a testament to my journey into th
 ## 😀 Support
 If you encounter any issues or have suggestions for improvement, please feel free to open an issue in the issue tracker. Your feedback is valuable to me!
 
+<div align="center">
+  
+### Show some ❤️ by starring some of the repositories!
+
+</div>
