@@ -9,9 +9,9 @@
 
 ## Prerequisites
 - Python 3.x
-- tkinter library
-- requests library
-- PIL library
+- tkinter Library
+- requests Library
+- PIL Library
 
 ## Installation
 1. Clone the repository:
