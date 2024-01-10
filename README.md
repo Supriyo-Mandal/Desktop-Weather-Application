@@ -21,13 +21,13 @@
 2.  Install the required libraries:
 
     ```bash
-   pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ## Usage
 1.  Run the application:
 
     ```bash
-   python weather_app.py
+    python weather_app.py
 
 2.  Enter the desired city in the provided textbox.
 
