@@ -1,6 +1,6 @@
 # ☁️🌞Desktop Weather Application
 
-Welcome to TINT's Weather App! This project is a testament to my journey into the world of web scraping and Python GUI development, initiated during my first year of learning. With this simple yet effective application, users can check the current weather conditions for over 200,000 cities worldwide.
+Welcome to my Desktop Weather Application 🚀! This project is a testament to my journey into the World of Web Scraping and Python GUI Development, initiated during my first year of learning.  It utilizes the Tkinter library for the graphical user interface (GUI) and the OpenWeatherMap API to fetch real-time weather data. With this simple yet effective application, users can check the current weather conditions for over 200,000 Cities Worldwide.
 
 # 🧐Table of Contents
 
