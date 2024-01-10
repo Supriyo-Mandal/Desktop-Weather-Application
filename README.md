@@ -33,8 +33,12 @@ Welcome to TINT's Weather App! This project is a testament to my journey into th
 3.  Click "Get Weather" to fetch and display the current weather information.
 
 ## Screenshots
-<h2 align="center"><img src="./Screenshots/Screenshot_profile.png" alt="Weather App Screenshot" width="600" height="400"></h2>
-<h2 align="center"><img src="./Screenshots/Screenshot_city.png" alt="Weather App Screenshot" width="600" height="400"></h2>
+<div>
+   <h2 align="center"><img src="./Screenshots/Screenshot_profile.png" alt="Weather App Screenshot" width="300" height="300"></h2>
+   <h2 align="center"><img src="./Screenshots/Screenshot_city.png" alt="Weather App Screenshot" width="300" height="300"></h2>
+   <h2 align="center"><img src="./Screenshots/Screenshot1.png" alt="Weather App Screenshot"   width="300" height="300"></h2>
+   <h2 align="center"><img src="./Screenshots/Screenshot3.png" alt="Weather App Screenshot"   width="300" height="300"></h2>
+</div>
 
 
 ## Support
